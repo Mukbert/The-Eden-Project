@@ -1,0 +1,7 @@
+#TYPE equipment
+#NAME Eisenhose
+
+#ITEM
+#STACK 1
+#PRICE 170
+#EQUIPMENTID legs

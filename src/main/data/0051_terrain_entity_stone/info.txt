@@ -1,0 +1,8 @@
+#TYPE worldObject
+#NAME Stone
+#SCALE 0.7
+
+#MAP
+#RCOLOR 100
+#GCOLOR 100
+#BCOLOR 100

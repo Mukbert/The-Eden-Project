@@ -1,0 +1,7 @@
+#TYPE equipment
+#NAME Lederbrustpanzer
+
+#ITEM
+#STACK 1
+#PRICE 200
+#EQUIPMENTID cheast

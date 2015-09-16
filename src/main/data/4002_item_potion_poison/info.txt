@@ -1,0 +1,6 @@
+#TYPE item
+#NAME Gegengifttrank
+
+#ITEM
+#STACK 10
+#PRICE 25

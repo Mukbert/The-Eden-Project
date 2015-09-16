@@ -1,0 +1,9 @@
+#TYPE equipment
+#NAME Schild
+#SCALE 1
+
+#ITEM
+#PRICE 200
+#STACK 1
+#EQUIPMENTID weapon_second
+#DAMAGE 0

@@ -1,0 +1,10 @@
+#TYPE spawner
+#NAME Schweinespawner
+
+#SPAWNER
+#SPAWNERID 2003
+
+#MAP
+#RCOLOR 250
+#GCOLOR 100
+#BCOLOR 126

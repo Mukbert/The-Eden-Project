@@ -1,0 +1,7 @@
+#TYPE equipment
+#NAME Eisenschuhe
+
+#ITEM
+#STACK 1
+#PRICE 150
+#EQUIPMENTID shoes

@@ -1,0 +1,7 @@
+#TYPE equipment
+#NAME Eisenhemd
+
+#ITEM
+#STACK 1
+#PRICE 100
+#EQUIPMENTID shirt

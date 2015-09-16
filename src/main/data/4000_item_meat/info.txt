@@ -1,0 +1,7 @@
+#TYPE item
+#NAME Fleisch
+#SCALE 1
+
+//ITEM
+#STACK 10
+#PRICE 15

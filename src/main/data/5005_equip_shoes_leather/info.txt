@@ -1,0 +1,7 @@
+#TYPE equipment
+#NAME Lederschuhe
+
+#ITEM
+#STACK 1
+#PRICE 100
+#EQUIPMENTID shoes

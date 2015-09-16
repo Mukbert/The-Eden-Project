@@ -1,0 +1,6 @@
+#TYPE item
+#NAME Heiltrank
+
+#ITEM
+#STACK 10
+#PRICE 25

@@ -1,0 +1,6 @@
+#TYPE item
+#NAME Hasenpelz
+
+#ITEM
+#STACK 8
+#PRICE 40

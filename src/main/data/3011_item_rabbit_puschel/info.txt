@@ -1,0 +1,6 @@
+#TYPE item
+#NAME Hasenpuschel
+
+#ITEM
+#STACK 10
+#PRICE 20

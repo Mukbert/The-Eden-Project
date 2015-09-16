@@ -1,0 +1,6 @@
+#TYPE item
+#NAME Schweineleder
+
+#ITEM
+#STACK 10
+#PRICE 25

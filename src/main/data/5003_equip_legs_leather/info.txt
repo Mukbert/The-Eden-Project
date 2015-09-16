@@ -1,0 +1,7 @@
+#TYPE equipment
+#NAME Lederhose
+
+#ITEM
+#STACK 1
+#PRICE 120
+#EQUIPMENTID legs

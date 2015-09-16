@@ -1,0 +1,9 @@
+#TYPE terrain
+#NAME Dirt
+
+#MAP
+#RCOLOR 250
+#GCOLOR 150
+#BCOLOR 50
+
+#TERRAIN

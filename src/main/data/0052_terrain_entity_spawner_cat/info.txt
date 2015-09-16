@@ -1,0 +1,10 @@
+#TYPE spawner
+#NAME Katzenspawner
+
+//SPAWNER
+#SPAWNERID 2001
+
+//MAP
+#RCOLOR 100
+#GCOLOR 0
+#BCOLOR 0

@@ -1,0 +1,7 @@
+#TYPE equipment
+#NAME Lederhandschuhe
+
+#ITEM
+#STACK 1
+#PRICE 80
+#EQUIPMENTID gloves

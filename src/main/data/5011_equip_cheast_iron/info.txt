@@ -1,0 +1,7 @@
+#TYPE equipment
+#NAME Eisenbrustpanzer
+
+#ITEM
+#STACK 1
+#PRICE 250
+#EQUIPMENTID cheast

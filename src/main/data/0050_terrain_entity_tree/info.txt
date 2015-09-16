@@ -1,0 +1,8 @@
+#TYPE worldObject
+#NAME Baum
+#SCALE 1.5
+
+#MAP
+#RCOLOR 0
+#GCOLOR 160
+#BCOLOR 0

@@ -1,0 +1,7 @@
+#TYPE equipment
+#NAME Lederhelm
+
+#ITEM
+#STACK 1
+#PRICE 100
+#EQUIPMENTID helmet

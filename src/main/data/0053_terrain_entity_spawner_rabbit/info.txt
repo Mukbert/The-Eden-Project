@@ -1,0 +1,10 @@
+#TYPE spawner
+#NAME Hasenspawner
+
+//SPAWNER
+#SPAWNERID 2002
+
+//MAP
+#RCOLOR 200
+#GCOLOR 100
+#BCOLOR 0

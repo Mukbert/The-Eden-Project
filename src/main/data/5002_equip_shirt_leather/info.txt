@@ -1,0 +1,7 @@
+#TYPE equipment
+#NAME Lederhemd
+
+#ITEM
+#STACK 1
+#PRICE 50
+#EQUIPMENTID shirt
